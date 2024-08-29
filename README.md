@@ -16,7 +16,7 @@ Before running the script, you need to have the following installed:
 
 - [Python](https://www.python.org/downloads/)
 - [Selenium](https://pypi.org/project/selenium/)
-- [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads) (make sure the version of ChromeDriver matches your Chrome browser version)
+- [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads)
 - [MySQL](https://dev.mysql.com/downloads/)
 
 ## Code Description
